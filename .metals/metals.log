@@ -263,3 +263,31 @@ WARNING: Unmatched cancel notification for request id 818
 2025.03.31 22:33:24 INFO  time: compiled root in 0.19s[0m
 2025.03.31 22:35:57 INFO  compiling root (1 scala source)[0m
 2025.03.31 22:35:58 INFO  time: compiled root in 1.84s[0m
+2025.03.31 22:52:02 INFO  Shutting down server[0m
+2025.03.31 22:52:02 INFO  shutting down Metals[0m
+2025.03.31 22:52:02 INFO  Shut down connection with build server.[0m
+2025.03.31 22:52:02 INFO  Shut down connection with build server.[0m
+2025.03.31 22:52:02 INFO  Shut down connection with build server.[0m
+2025.04.01 09:06:40 INFO  Started: Metals version 1.5.2 in folders '/home/gordonyx/src/scala/play-rest-api' for client Neovim 0.10.4+ge96f75a4e6.[0m
+2025.04.01 09:06:41 INFO  no build target found for /home/gordonyx/src/scala/play-rest-api/app/db/InMemoryDb.scala. Using presentation compiler with project's scala-library version: 3.3.5[0m
+2025.04.01 09:06:41 INFO  no build target found for /home/gordonyx/src/scala/play-rest-api/app/db/InMemoryDb.scala. Using presentation compiler with project's scala-library version: 3.3.5[0m
+2025.04.01 09:06:41 INFO  Attempting to connect to the build server...[0m
+2025.04.01 09:06:41 INFO  Found a Bloop server running[0m
+2025.04.01 09:06:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gordonyx/src/scala/play-rest-api/.metals/bsp.trace.json or /home/gordonyx/.cache/metals/bsp.trace.json[0m
+2025.04.01 09:06:41 INFO  Attempting to connect to the build server...[0m
+2025.04.01 09:06:41 INFO  Found a Bloop server running[0m
+2025.04.01 09:06:41 INFO  Attempting to connect to the build server...[0m
+2025.04.01 09:06:41 INFO  Found a Bloop server running[0m
+2025.04.01 09:06:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gordonyx/src/scala/play-rest-api/project/project/.metals/bsp.trace.json or /home/gordonyx/.cache/metals/bsp.trace.json[0m
+2025.04.01 09:06:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/gordonyx/src/scala/play-rest-api/project/.metals/bsp.trace.json or /home/gordonyx/.cache/metals/bsp.trace.json[0m
+2025.04.01 09:06:42 INFO  time: Connected to build server in 0.49s[0m
+2025.04.01 09:06:42 INFO  Connected to Build server: Bloop v2.0.9[0m
+2025.04.01 09:06:42 INFO  time: Imported build in 0.2s[0m
+2025.04.01 09:06:46 INFO  time: indexed workspace in 4.23s[0m
+Apr 01, 2025 9:06:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.04.01 09:07:14 INFO  Shutting down server[0m
+2025.04.01 09:07:14 INFO  shutting down Metals[0m
+2025.04.01 09:07:14 INFO  Shut down connection with build server.[0m
+2025.04.01 09:07:14 INFO  Shut down connection with build server.[0m
+2025.04.01 09:07:14 INFO  Shut down connection with build server.[0m
